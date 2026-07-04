@@ -1,0 +1,12 @@
+{
+  "name": "seo-schema-kit",
+  "version": "0.1.0",
+  "description": "schema.org / JSON-LD 結構化資料產生器 — 零依賴、純函式。Article/Course/FAQ/HowTo/Breadcrumb/Organization/LocalBusiness/WebSite，一個檔搞定，SSR 友善。",
+  "main": "index.js",
+  "scripts": {
+    "example": "node example.js"
+  },
+  "keywords": ["seo", "schema-org", "json-ld", "structured-data", "rich-results", "zero-dependency", "結構化資料", "複合式搜尋結果"],
+  "author": "Jeffrey0117",
+  "license": "MIT"
+}
