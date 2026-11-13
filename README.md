@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.svg" width="96" height="96" alt="seo-schema-kit logo">
+</p>
+
 # seo-schema-kit 🔎
 
 **零依賴的 schema.org / JSON-LD 結構化資料產生器。** 純函式，吃一個 props 物件、回一個乾淨的 JSON-LD，塞進 `<head>` 就能讓 Google 讀懂你的頁面、爭取複合式搜尋結果（Rich Results）。
